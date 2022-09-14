@@ -47,8 +47,8 @@ header{
 .principal{
     display: flex;
     /*background-color: rgb(4, 5, 56);*/
-    background:linear-gradient(rgba(0, 0, 0, 0.425),hsl(0, 0%, 0%, .30)),url(./img/banner1.jpg);
-    /*background-image: linear-gradient(135deg, black, rgb(4, 5, 56),rgb(5, 94, 121),rgb(4, 5, 56));*/
+    /*background:linear-gradient(rgba(0, 0, 0, 0.425),hsl(0, 0%, 0%, .30)),url(/img/banner1.jpg);*/
+    background-image: linear-gradient(135deg, black, rgb(4, 5, 56),rgb(5, 94, 121),rgb(4, 5, 56));
     color: aliceblue;
     
 }
